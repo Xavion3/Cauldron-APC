@@ -1,6 +1,6 @@
 # Cauldron-APC
 
-####Things to remember / Rules
+### Things to remember / Rules
 - Each participant is allowed to add up to 12 or 13 mods during their turn.
   - Each turn lasts for 10 days.
     - The current holder of the pack is allowed to end their turn early and pass the pack to the next person on the list.
